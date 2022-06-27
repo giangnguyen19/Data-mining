@@ -1,0 +1,50 @@
+The number of length: 1
+Pattern : {A}: Count = 5
+Pattern : {B}: Count = 7
+Pattern : {C}: Count = 13
+Pattern : {D}: Count = 6
+Pattern : {E}: Count = 7
+Pattern : {F}: Count = 4
+Pattern : {G}: Count = 2
+Pattern : {H}: Count = 3
+Pattern : {I}: Count = 5
+Pattern : {J}: Count = 8
+Pattern : {U}: Count = 6
+The number of length: 2
+Pattern : {('A', 'B')}: Count = 2
+Pattern : {('A', 'C')}: Count = 4
+Pattern : {('A', 'D')}: Count = 2
+Pattern : {('B', 'C')}: Count = 4
+Pattern : {('B', 'D')}: Count = 3
+Pattern : {('B', 'E')}: Count = 2
+Pattern : {('B', 'H')}: Count = 2
+Pattern : {('B', 'I')}: Count = 2
+Pattern : {('B', 'J')}: Count = 2
+Pattern : {('C', 'E')}: Count = 4
+Pattern : {('C', 'F')}: Count = 3
+Pattern : {('C', 'G')}: Count = 2
+Pattern : {('C', 'I')}: Count = 3
+Pattern : {('C', 'J')}: Count = 3
+Pattern : {('C', 'U')}: Count = 4
+Pattern : {('D', 'E')}: Count = 2
+Pattern : {('D', 'H')}: Count = 2
+Pattern : {('D', 'J')}: Count = 4
+Pattern : {('E', 'F')}: Count = 2
+Pattern : {('E', 'I')}: Count = 4
+Pattern : {('F', 'U')}: Count = 2
+Pattern : {('G', 'I')}: Count = 2
+Pattern : {('H', 'J')}: Count = 3
+Pattern : {('J', 'U')}: Count = 4
+The number of length: 3
+Pattern : {('A', 'B', 'C')}: Count = 2
+Pattern : {('B', 'D', 'H')}: Count = 2
+Pattern : {('B', 'D', 'J')}: Count = 2
+Pattern : {('B', 'E', 'I')}: Count = 2
+Pattern : {('B', 'H', 'J')}: Count = 2
+Pattern : {('C', 'E', 'F')}: Count = 2
+Pattern : {('C', 'E', 'I')}: Count = 2
+Pattern : {('C', 'G', 'I')}: Count = 2
+Pattern : {('C', 'J', 'U')}: Count = 2
+Pattern : {('D', 'H', 'J')}: Count = 2
+The number of length: 4
+Pattern : {('B', 'D', 'H', 'J')}: Count = 2

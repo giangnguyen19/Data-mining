@@ -1,0 +1,14 @@
+The number of length: 1 sequential pattern is 5
+Pattern : <{10}>: Count = 3
+Pattern : <{20}>: Count = 5
+Pattern : <{30}>: Count = 4
+Pattern : <{40}>: Count = 3
+Pattern : <{50}>: Count = 3
+The number of length: 2 sequential pattern is 5
+Pattern : <{20}{10}>:Count = 3
+Pattern : <{20}{20}>:Count = 4
+Pattern : <{20}{30}>:Count = 4
+Pattern : <{30}{20}>:Count = 3
+Pattern : <{20}{50}>:Count = 3
+The number of length: 3 sequential pattern is 1
+Pattern : <{20}{30}{20}>:Count = 3
